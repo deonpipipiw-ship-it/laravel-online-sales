@@ -1,4 +1,4 @@
-# Ruang Belanja — Aplikasi E-Commerce Laravel
+# Ruang Belanja - Aplikasi E-Commerce Laravel
 
 Aplikasi penjualan online (*e-commerce*) berbasis **Laravel** dan **MySQL** dengan pemisahan peran **Admin** dan **Pelanggan (Customer)**, manajemen inventaris stok masuk/keluar, keranjang belanja berbasis session, checkout transaksional, serta validasi pesanan.
 
